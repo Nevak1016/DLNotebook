@@ -1,2 +1,2 @@
-# JupyterNotebook
+# DeepLearning Notebook
 ### BJQ
